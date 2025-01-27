@@ -1,5 +1,5 @@
-GCNet: A Deep Learning Framework for Enhanced Grape Cluster Segmentation and Yield Estimation Incorporating Occluded Grape Detection with a Correction Factor for Indoor Experimentation
-
+**GCNet: A Deep Learning Framework for Enhanced Grape Cluster Segmentation and Yield Estimation Incorporating Occluded Grape Detection with a Correction Factor for Indoor Experimentation
+**
 This repository contains two Jupyter notebooks designed for tasks related to grape image analysis, specifically:
 
 1. TestSegmentation_Final.ipynb: Implements and tests segmentation algorithms for grape clusters.
